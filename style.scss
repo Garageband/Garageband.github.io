@@ -18,9 +18,10 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+    background-image: url("http://footwalls.com/wallpapers/clubs/wales/swansea-city/swansea-city-7.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    height: 100%;
 }
 
 .container {
