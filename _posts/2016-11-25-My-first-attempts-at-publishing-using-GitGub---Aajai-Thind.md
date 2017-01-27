@@ -11,7 +11,7 @@ published: true
     <td>Title:  </td>
     <td>My first attempts at publishing using GitHub  </td>
     <td> Date:  </td>
-    <td>27/11/16</td>
+    <td>25/11/16</td>
   </tr>
 </table>
 
@@ -19,7 +19,7 @@ published: true
 <table>
   <tr>
     <td>Starting point:</td>
-    <td>I had no knowledge</td>
+    <td>I had no knowledge on Github</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
@@ -28,7 +28,7 @@ published: true
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>I think so, as I followed all the instructions and seem to have done everything in the correct order.</td>
+    <td>I think so, as I followed all the instructions and seem to have done everything in the correct order. I also managed to edit things about me and my profile picture (avatar)</td>
   </tr>
 </table>
 
@@ -41,21 +41,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Mainly by focused listening and watching a demonstration.</td>
+    <td>Listening to the teacher and the google slides helped me learn. Asking my friends helped as they described in a more simpler way and showed me if i can't find where the button or the link is. </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>The first set of instructions went well, although I managed to get confused when the program showed up a slightly different version of the information and I got distracted by menus that weren't relevant.  
-
-This made me change my ways and I decided to take quick notes (on paper) so that I could remember the instructions in the correct order next time.  This strategy helped me a lot, and the next process went really smoothly.</td>
+    <td>Whilst I was trying to edit the information it wouldn't let me click on it/ let me edit so that stopped me. But then I logged out then back in and it was fine. When I had finished with my work I published it and it did not work so i tried to click on things but i just had to refresh the page.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>Always be ready to make notes so that I don’t forget, and I can work better independently when things go a bit wrong...</td>
+    <td>I got mixed up with some of the instructions so to improve i could make notes of what the order of the instructions are and i could also listen more attentively. </td>
   </tr>
 </table>
 
