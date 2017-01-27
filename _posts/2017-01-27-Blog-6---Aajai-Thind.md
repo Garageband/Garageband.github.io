@@ -23,12 +23,12 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To create a shop with prices and a total on google spreadsheets</td>
+    <td>To create a shop with prices and a total and a discount code on google spreadsheets</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Yes as I managed to create a fully working shop with prices and a total for all my items</td>
+    <td>Yes as I managed to create a fully working shop with prices and a total for all my items. I also managed to create a successful discount code</td>
   </tr>
 </table>
 
