@@ -51,7 +51,7 @@ published: true
     <td>I need to not look through as many different backgrounds and templates.</td>
   </tr>
   <tr>
-    <td>I need to focus more on my work</td>
+    <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
     <td>I will try to remember what i did in the previous lesson</td>
